@@ -1,5 +1,4 @@
 🎮 Overwatch Server Selector
-https://cdn.discordapp.com/attachments/1398144553172603032/1490953143578787900/IMG_3714.png?ex=69d5edd1&is=69d49c51&hm=c2a43f0b5689ea90d4e4eced2cfed86c9f98084cd75449d2425ff744df95cdf1&
 
 A modern, lightweight GUI application that allows Overwatch 2 players to select their preferred game server region by automatically blocking all other regions using Windows Firewall rules.
 
